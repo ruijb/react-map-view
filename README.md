@@ -1,4 +1,4 @@
--# React Map View
+## React Map View
 
 A simple application to explore React. Layout was built with flexbox and some CSS animations.
 
