@@ -1,0 +1,66 @@
+.App {
+    display: flex;
+    
+}
+.Houses {
+    flex: 3;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: baseline;
+    padding: 5px;
+    background: #edeff0;
+}
+.Map {
+    flex: 4;
+    flex-direction: column;
+    height: 100vh;
+    position: sticky;
+    top: 0px;
+}
+.IconMap,
+.IconList {
+    display: none;
+    position: fixed;
+    top: 5px;
+    left: 5px;
+    width: 40px;
+    border-radius: 40px;
+    background: white;
+    padding: 10px 10px 7px 10px;
+    z-index: 1;
+}
+.IconMap svg,
+.IconList svg { 
+    opacity: 0.3;
+}
+
+@media (max-width: 400px) {
+    .Houses {
+        flex: 3
+    }
+}
+
+@media (max-width: 700px) {
+    .IconMap,
+    .IconList {
+        display: block;
+    }
+    .ListView .Map,
+    .MapView .Houses {
+        display: none;
+    }
+}
+@media (min-width: 401px) and (max-width: 700px) {
+    .Houses {
+        flex: 3
+    }
+}
+
+@media (min-width: 701px) and (max-width: 1200px) {
+    .Houses {
+        flex: 4
+    }
+    .Map {
+        flex: 3
+    }
+}

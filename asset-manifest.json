@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-map-view/static/css/main.dd64467d.chunk.css",
+    "main.js": "/react-map-view/static/js/main.c6b0e20a.chunk.js",
+    "main.js.map": "/react-map-view/static/js/main.c6b0e20a.chunk.js.map",
+    "runtime-main.js": "/react-map-view/static/js/runtime-main.3229b1dd.js",
+    "runtime-main.js.map": "/react-map-view/static/js/runtime-main.3229b1dd.js.map",
+    "static/js/2.f0abe8e8.chunk.js": "/react-map-view/static/js/2.f0abe8e8.chunk.js",
+    "static/js/2.f0abe8e8.chunk.js.map": "/react-map-view/static/js/2.f0abe8e8.chunk.js.map",
+    "index.html": "/react-map-view/index.html",
+    "precache-manifest.baedea6f6be0ef79440bb3bca1017f47.js": "/react-map-view/precache-manifest.baedea6f6be0ef79440bb3bca1017f47.js",
+    "service-worker.js": "/react-map-view/service-worker.js",
+    "static/css/main.dd64467d.chunk.css.map": "/react-map-view/static/css/main.dd64467d.chunk.css.map",
+    "static/media/list.dba72284.svg": "/react-map-view/static/media/list.dba72284.svg",
+    "static/media/map.aa014330.svg": "/react-map-view/static/media/map.aa014330.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3229b1dd.js",
+    "static/js/2.f0abe8e8.chunk.js",
+    "static/css/main.dd64467d.chunk.css",
+    "static/js/main.c6b0e20a.chunk.js"
+  ]
+}

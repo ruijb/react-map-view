@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "House 1",
+        "image": "/images/house1.jpg",
+        "lat": 38.7418805,
+        "lng": -9.1381367,
+        "color": "#845EC2"
+    },
+    {
+        "id": 2,
+        "name": "House 2",
+        "image": "/images/house2.jpg",
+        "lat": 38.7483437,
+        "lng": -9.1157019,
+        "color": "#2C73D2"
+    },
+    {
+        "id": 3,
+        "name": "House 3",
+        "image": "/images/house3.jpg",
+        "lat": 38.7253552,
+        "lng": -9.124636,
+        "color": "#0081CF"
+    },
+    {
+        "id": 4,
+        "name": "House 4",
+        "image": "/images/house4.jpg",
+        "lat": 38.7118097,
+        "lng": -9.1761422,
+        "color": "#0089BA"
+    },
+    {
+        "id": 5,
+        "name": "House 5",
+        "image": "/images/house5.jpg",
+        "lat": 38.7088702,
+        "lng": -9.1468967,
+        "color": "#008E9B"
+    },
+    {
+        "id": 6,
+        "name": "House 6",
+        "image": "/images/house6.jpg",
+        "lat": 38.7102677,
+        "lng": -9.1566079,
+        "color": "#845EC2"
+    },
+    {
+        "id": 7,
+        "name": "House 7",
+        "image": "/images/house7.jpg",
+        "lat": 38.7064272,
+        "lng": -9.1670181,
+        "color": "#2C73D2"
+    },
+    {
+        "id": 8,
+        "name": "House 8",
+        "image": "/images/house8.jpg",
+        "lat": 38.7178366,
+        "lng": -9.1442168,
+        "color": "#0081CF"
+    },
+    {
+        "id": 9,
+        "name": "House 9",
+        "image": "/images/house9.jpg",
+        "lat": 38.7163097,
+        "lng": -9.1395743,
+        "color": "#0089BA"
+    },
+    {
+        "id": 10,
+        "name": "House 10",
+        "image": "/images/house10.jpg",
+        "lat": 38.7114324,
+        "lng": -9.1376671,
+        "color": "#008E9B"
+    }
+]

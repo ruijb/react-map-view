@@ -1,0 +1,31 @@
+.House {
+    display: flex;
+    
+    flex-direction: column;
+    width: calc(50% - 20px);
+    margin: 10px;
+    cursor: pointer;
+}
+.SelectedHouse {
+    -webkit-box-shadow: 1px 3px 6px 0px rgba(0,0,0,0.20);
+    box-shadow: 1px 3px 6px 0px rgba(0,0,0,0.20);
+}
+.ImageContainer {
+    
+}
+.ContentContainer {
+    margin-top: -5px;
+    background: white;
+    padding: 5px 10px 5px 10px;
+}
+.Image {
+    width: 100%;
+    object-fit: cover;
+}
+.Title {
+    color: #222222;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    padding: 5px;
+}
